@@ -4,3 +4,12 @@
 .yellow {
     color: yellow;
 }
+h3:first-child {
+    color: pink;
+}
+div:not(.text-box) p {
+    color: red;
+}
+p:nth-child(7) {
+    color: green;
+}
